@@ -1,19 +1,28 @@
 # Text-Editor
 
 ## Project Description
+
 ```md
 
 ```
+
 ## User Story
-```md
 
+```md
+AS A web development student
+I WANT a tutorial explaining a specific regex
+SO THAT I can understand the search pattern the regex defines
 ```
+
 ## Usage information
-```md
-click on the green "code" button. Then you will need to copy the HTTPS link copy then clone to your a folder in your terminal.
-```
-##Important Links
 
+```md
+- click on the green "code" button. Then you will need to copy the HTTPS link copy then clone to your a folder in your terminal.
+- npm run build
+- npm run start:dev
+```
+
+##Important Links
 
 ## Technology Used
 
@@ -25,9 +34,12 @@ click on the green "code" button. Then you will need to copy the HTTPS link copy
 
 ![MySQL](https://img.shields.io/badge/mysql-%2309f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+![HTML](https://img.shields.io/badge/html-%2140f.svg?style=for-the-badge&logo=html&logoColor=red)
+
+![CSS](https://img.shields.io/badge/css-%2144f.svg?style=for-the-badge&logo=css&logoColor=white)
+
 ## Contact Me
 
 For any quesitons, concerns, or modification request contact me at: [Github](https://github.com/RussC22) or [Linkedin](https://www.linkedin.com/in/tavarus-cherry/)
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-
