@@ -2,16 +2,19 @@
 
 ## Project Description
 
-```md
+```
+This text editor runs in the browser, this app will be a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser; the application also functions offline.
 
 ```
 
 ## User Story
 
 ```md
-AS A web development student
-I WANT a tutorial explaining a specific regex
-SO THAT I can understand the search pattern the regex defines
+AS A developer
+
+I WANT to create notes or code snippets with or without an internet connection
+
+SO THAT I can reliably retrieve them for later use
 ```
 
 ## Usage information
@@ -22,7 +25,10 @@ SO THAT I can understand the search pattern the regex defines
 - npm run start:dev
 ```
 
-##Important Links
+## Important Links
+[Deployed Site](https://text-editor-russc22.herokuapp.com/)
+
+<img width="2024" alt="Text_Editor" src="https://user-images.githubusercontent.com/114961971/230830436-41af38a4-4852-493b-899c-344ac0a1c499.png">
 
 ## Technology Used
 
